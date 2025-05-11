@@ -30,8 +30,11 @@ Applied feature scaling where required.
 ## 🧠 Models Trained
 # Model	Accuracy (%)
 Logistic Regression -	88.59
+
 Random Forest -	88.04
+
 SVC -	85.87
+
 XGBoost -	84.78 
 
 ## 📈 Evaluation Metrics
