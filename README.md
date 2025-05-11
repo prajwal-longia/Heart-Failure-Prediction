@@ -48,4 +48,4 @@ pandas, numpy, matplotlib, seaborn, sklearn, xgboost
 1. Install the required libraries using:
 pip install -r requirements.txt
 
-2.Run test.ipynb notebook in Jupyter or VS Code.
+2. Run test.ipynb notebook in Jupyter or VS Code.
